@@ -1,23 +1,35 @@
 # HackClub
 Mini Projects to support Hack Club
-# Hack Club Prep: 10 Quick Python Builder Challenges
 
-Welcome to Hack Club Prep! This booklet is designed for students (especially 12-year-olds) to learn Python through practical, visible projects. Each challenge is short, builds something you can see, and gets a little harder as you go.
+# Welcome to Hack Club Prep!
 
-## How it works
-- Brief theory (with short Mosh videos)
-- Fast build challenge
-- Visible results
-- Difficulty rises without getting too heavy
+## What is Hack Club?
+[HackClub.com](https://hackclub.com/) is a global network of student-led coding clubs. At Hack Club, you build cool projects, learn real coding skills, and work together with friends. Clubs are run by students, for students—so you get to decide what you make and how you learn!
 
-## Why this works
-These challenges train the habits you need for Hack Club:
-- Reading and changing code
-- Building small working systems
-- Getting comfortable with mistakes
-- Showing something at the end
+## Why Start Here?
+This repo is your launchpad for joining or starting a Hack Club at your school. The challenges here are designed for beginners, especially if you’re 12–14 years old. You’ll:
+- Build real projects (not just theory)
+- See your code work right away
+- Get comfortable making mistakes and fixing them
+- Learn the basics you need to join a student-led club
 
-## Suggested 10-Hour Flow
+## How These Challenges Help
+Hack Club is all about learning by doing. These quick Python challenges help you:
+- Read and change code
+- Build small, working systems
+- Show off your creations
+- Work with others and share ideas
+
+You don’t need to be a coding expert—just curious and ready to try!
+
+## How to Use This Booklet
+1. Watch a short theory video (see docs for links)
+2. Try the challenge
+3. Check the success criteria
+4. Try the extension task if you want more
+
+## 10-Hour Challenge Flow
+You can do these in order, or pick what interests you:
 - **Hour 1:** Challenge 1 + Challenge 2
 - **Hour 2:** Challenge 3
 - **Hour 3:** Challenge 4
@@ -26,17 +38,17 @@ These challenges train the habits you need for Hack Club:
 - **Hour 6:** Challenge 7
 - **Hour 7:** Challenge 8
 - **Hour 8:** Challenge 9
-- **Hour 9–10:** Challenge 10 + polishing + demo
+- **Hour 9–10:** Challenge 10 + polish + demo
 
-## Framing for students
-Call it:
-- **Python Builder Challenges**
-- **Hack Club Prep: 10 Quick Builds**
+## Ready to Start?
+Check out the [docs](docs/) folder for each challenge. Every challenge has:
+- Task card
+- Success criteria
+- Extension task
 
-This keeps it practical and low-pressure.
+## Next Steps
+- Join or start a Hack Club at your school
+- Share your projects with friends
+- Visit [HackClub.com](https://hackclub.com/) for more resources and inspiration
 
----
-
-## Challenges
-
-Each challenge is in the [docs](docs/) folder. See each for task card, success criteria, and extension task.
+You’re not just learning to code—you’re learning to build, share, and lead!
