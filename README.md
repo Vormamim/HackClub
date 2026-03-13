@@ -2,9 +2,9 @@
 ## Mini Projects to support Hack Club
 Teachers can't be 'in' Hack Club, but you can. Hack Club meets in CR1 on Monday - First Lunch. There are students from all years, and the idea is you choose something are into and then commit some time to achieving it. The whole point of Hack Club is that you sign-up and you drive it. No 'syllabus' or 'course' to follow. You dive in and figure things out.
 
-Most people getting into Hack Club are going to want to do it because they are interested in design and engineering. To help you get a leg-up, Gosford High School has a collection of resources and challenges that will help you get started - in class. These are mini-puzzle project for you to solve. It is byte sized learning where we give you time and some starter resources.
+Most people getting into Hack Club are going to want to do it because they are interested in design and engineering. To help you get a leg-up, Gosford High School has a collection of resources and challenges that will help you get started - in class. These are **micro-puzzle** projects for you to solve. 
 
-It get's you stated in Hack Club quicker ... and after a few hours you'll have some idea of what it's like to go around designing and engineering things.
+### It is byte sized learning where we give you time and some starter resources. It get's you stated in Hack Club quicker ... and after a few hours you'll have some idea of what it's like to go around designing and engineering things.
 
 Then you peers at school take over. All you have to do is CHOOSE to sign-up online - or not. No pressure.
 
